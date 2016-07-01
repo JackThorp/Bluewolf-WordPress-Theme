@@ -7,6 +7,13 @@
     </div>
   </div>
   <hr>
+  <div class="alert-section row">
+    <div class="col-xs-10 col-xs-offset-1">
+      <h1 class="alert-header"><a class="no-link-color" href="https://fairmondo-uk.sharetribe.com">Alpha Marketplace Operational!</a></h1>
+      <h2> Start trading ethically and join the community now at <a href="https://fairmondo-uk.sharetribe.com">fairmondo-uk.sharetribe.com</a></h2>
+    </div>
+  </div>
+  <hr>
   <div class="row">
     <div class="col-xs-10 col-xs-offset-1">
       <h1> What is FairmondoUK? </h1>
@@ -17,7 +24,7 @@
           </a>
           <h2 class="text-center"> The One </h2>
           <div class="summary-item">
-            <p> A marketplace that brings ethical sellers goods and customers together in one place. </p>
+            <p> A marketplace that brings ethical sellers goods and customers together in one place. <a href="/about#the_one">Learn more.</a></p>
           </div>
         </div>
         <div class="col-sm-4 col-xs-12">
@@ -26,7 +33,7 @@
           </a>
           <h2 class="text-center"> Easy </h2>
           <div class="summary-item">
-            <p> A marketplace that makes it really easy to find ethical solutions to everyday needs. </p>
+            <p> A marketplace that makes it really easy to find ethical solutions to everyday needs. <a href="/about#easy">Learn more.</a></p>
           </div>
         </div>
         <div class="col-sm-4 col-xs-12">
@@ -35,7 +42,7 @@
           </a>
           <h2 class="text-center"> Co-operative </h2>
           <div class="summary-item">
-            <p> A marketplace that is cooperatively owned and run by its users: buyers, sellers, workers, investors. </p>
+            <p> A marketplace that is cooperatively owned and run by its users: buyers, sellers, workers, investors. <a href="/about#cooperative">Learn More.</a></p>
           </div>
         </div>
       </div>
