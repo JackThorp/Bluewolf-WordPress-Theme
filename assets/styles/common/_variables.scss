@@ -7,3 +7,23 @@ $sidebar-sm-columns:    4;
 
 // Colors
 $brand-primary:         #27ae60;
+// Override Bootstrap variables in this file, e.g.
+
+$font-size-base: 14px;
+
+// Colours
+$blue: #6d9eeb;
+$green: #6aa84f;
+$rose: #e06666;
+$yellow: #ffd966;
+$orange: #ff9900;
+$purple: #c27ba0;
+
+$white: #ffffff;
+$black: #000000;
+
+$colour-primary: $blue;
+
+// Fonts
+$font-primary: 'Roboto Condensed', sans-serif;
+$font-secondry: 'Open Sans', sans-serif; 

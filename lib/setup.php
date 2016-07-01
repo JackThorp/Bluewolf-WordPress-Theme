@@ -95,6 +95,7 @@ function display_sidebar() {
  * Theme assets
  */
 function assets() {
+  wp_enqueue_style('gfonts/css', '//fonts.googleapis.com/css?family=Roboto+Condensed:300|Open+Sans', false, null);
   wp_enqueue_style('sage/css', Assets\asset_path('styles/main.css'), false, null);
 
   if (is_single() && comments_open() && get_option('thread_comments')) {
