@@ -13,3 +13,24 @@
   @extend .btn;
   @extend .btn-default;
 }
+
+// Contact Form
+#ninja_forms_form_1 .field-wrap :not(#ninja_forms_field_4) {
+  @extend .form-group;
+}
+
+#ninja_forms_form_1 .ninja-forms-field {
+  @extend .form-control;
+}
+
+// set height of text area for message
+#ninja_forms_form_1 #ninja_forms_field_3 {
+  height: 200px;
+}
+
+#ninja_forms_form_1 #ninja_forms_field_4 {
+  @extend .btn;
+  @extend .btn-default;
+  width: 100px;
+}
+
