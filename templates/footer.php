@@ -24,7 +24,7 @@
       <div class="col-xs-12 col-sm-4 col-sm-push-4">
         <ul class="social">
           <li>
-            <a href="https://www.facebook.com/fairmarketcoop" target="_blank">
+            <a href="https://www.facebook.com/Fairmondouk" target="_blank">
               <i class="fa fa-facebook"></i>
             </a>
           </li>
@@ -34,20 +34,20 @@
             </a>
           </li>
           <li>
-            <a href="https://www.pinterest.com/theoldmaninrome/fairmarketcoop/" target="_blank">
-              <i class="fa fa-pinterest"></i>
+            <a href="https://www.instagram.com/fairmondouk" target="_blank">
+              <i class="fa fa-instagram"></i>
             </a>
           </li>
         </ul>
       </div>
       <div class="col-xs-6 col-sm-4 col-sm-pull-4">
         <a href="http://www.uk.coop/" target="_blank">
-        <img src="<?= get_template_directory_uri(); ?>/dist/images/coops_uk.png" alt="cooperatives UK">
+          <img src="<?= get_template_directory_uri(); ?>/dist/images/coops_uk.png" alt="cooperatives UK">
         </a>
       </div>
       <div class="col-xs-6 col-sm-4">
         <a href="http://www.ica.coop" target-"_blank">
-          <img src="<?= get_template_directory_uri(); ?>/dist/images/Coop_marque/png/coop_emgr.png" alt="International Cooperative Alliance">
+          <img src="<?= get_template_directory_uri(); ?>/dist/images/coop_emgr.png" alt="International Cooperative Alliance">
         </a>
       </div>
     </div>

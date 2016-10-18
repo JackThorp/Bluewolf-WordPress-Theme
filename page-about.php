@@ -1,7 +1,7 @@
 <h1>What is Fairmondo?</h1>
 <div class="container-fluid">
   <div class="row" >
-    <div class="col-xs-12 col-sm-10 col-sm-offset-1">
+    <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center">
       <p>Fairmondo began life in Germany in 2012 as a cooperatively owned marketplace that would promote fair goods and services and “responsible consumption”. It is owned and run democratically by its members.</p>
       <p>~</p>
       <p>Fairmondo UK is a next step in building a global network of cooperative platforms for trading goods and services. The UK platform is being built and promoted by Worth Cooperating until its launch as a multi-stakeholder cooperative based on a Somerset and Fairshares rules.</p>
@@ -54,28 +54,6 @@
             <p>Trusted site, trusted sellers, trusted goods. It’s a simple proposition, those who make and grow the things we need, those who build the marketplace, those who shop there or have provided social investment should and can share in running the business and distribution of any surplus.</p>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-  <hr>
-  <div style="background-color: #ffd966" class="row">
-    <div style="text-align:center;" class="col-xs-10 col-xs-offset-1">
-      <h1>aims</h1>
-      <div style="font-size:1.5em; text-align: left;list-style-type: none">
-        <ul>
-          <li><p>To make it easy and affordable to “<strong>buy the good</strong>” - ethical goods and services</p>
-          </li>
-          <li><p>To bring ethically committed sellers and customers together in one trusted, transparent marketplace</p>
-          </li>
-          <li><p>to provide a wide and growing range of ethical goods and services</p>
-          </li>
-          <li><p>The sellers, customers, workers, founders and investors cooperatively finance, own and control the business. </p>
-          </li>
-          <li><p>To use a share of any surplus for social good</p>
-          </li>
-          <li><p>To anchor the enterprise in West Yorkshire</p>
-          </li>
-        </ul>
       </div>
     </div>
   </div>

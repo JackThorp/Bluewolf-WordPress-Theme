@@ -5,14 +5,20 @@
     <h2> A cooperatively owned online marketplace that makes it really easy to source ethical goods and services from sellers with a strong commitment to ethical business and trade. </h2>
   </div>
 </div>
-<hr>
+<div id="market-banner" class="row">
+  <!--<img id="fm_bazaar" src="<?= get_template_directory_uri(); ?>/dist/images/fm_bazaar_thin.jpg">-->
+  <div class="col-xs-12">
+    <h1 class="alert-header"><a href="https://fairmondo-uk.sharetribe.com"> Click Here for Fairmondo UK Marketplace</a></h1>
+    <!--<h2> Start trading ethically and join the community now at <a href="https://fairmondo-uk.sharetribe.com">fairmondo-uk.sharetribe.com</a></h2>-->
+  </div>
+</div>
+<!--
 <div class="alert-section row">
   <div class="col-sm-10 col-sm-offset-1">
     <h1 class="alert-header"><a class="no-link-color" href="https://fairmondo-uk.sharetribe.com">Alpha Marketplace Operational!</a></h1>
-    <h2> Start trading ethically and join the community now at <a href="https://fairmondo-uk.sharetribe.com">fairmondo-uk.sharetribe.com</a></h2>
   </div>
 </div>
-<hr>
+-->
 <div class="row">
   <div class="col-sm-10 col-sm-offset-1">
     <h1> What is Fairmondo UK? </h1>
@@ -105,7 +111,7 @@
     <h1>What's the offer?</h1>
   </div>
   <div class="col-sm-6">
-    <img src="http://res.cloudinary.com/didub4plo/image/upload/v1444933258/ezd22b2wjrcmmlrrwavo.png" height="300px" class="centered-img">
+  <img src="<?= get_template_directory_uri();?>/dist/images/sellers.svg" height="300px" class="centered-img">
     <h2>For Sellers:</h2>
     <div class="offer-list">
       <ul>
@@ -120,7 +126,7 @@
     </div>
   </div>
   <div class="col-sm-6">
-    <img src="http://res.cloudinary.com/didub4plo/image/upload/v1444933221/jrt1k8jii0qyxz6ze3ej.svg" height="300px" class="centered-img" data-pin-nopin="true">
+    <img src="<?= get_template_directory_uri(); ?>/dist/images/consumer.svg" height="300px" class="centered-img" data-pin-nopin="true">
     <h2>For Consumers:</h2>
     <div class="offer-list">
       <ul>
@@ -138,13 +144,13 @@
 <div class="row">
   <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <h1>Where do we go from here?</h1>
-    <p class="text-center">Find out about the plan for the future and how you can get involved by looking at our roadmap or checking out our vacancies list.</p>
+    <p class="text-center">Find out about the plan for the future and how you can get involved by signing up to our newsletter and checking out our vacancies list.</p>
     <div class="text-center">
-      <a href="about#roadmap">
-        <button class="btn btn-default">See The Roadmap</button>
+      <a href="#sign-up">
+        <button class="btn btn-default">Newsletter</button>
       </a>
       <a href="vacancies">
-        <button class="btn btn-default">See Our Vacancies</button>
+        <button class="btn btn-default">Vacancies</button>
       </a>
     </div>
   </div>

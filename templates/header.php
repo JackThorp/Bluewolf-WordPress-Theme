@@ -21,7 +21,7 @@
           ?>        
           <ul class="nav navbar-nav navbar-right">
             <li>
-              <a href="https://www.facebook.com/fairmarketcoop" target="_blank">
+              <a href="https://www.facebook.com/Fairmondouk" target="_blank">
                 <i class="fa fa-facebook"></i>
               </a>
             </li>
@@ -31,8 +31,8 @@
               </a>
             </li>
             <li>
-              <a href="https://www.pinterest.com/theoldmaninrome/fairmarketcoop/" target="_blank">
-                <i class="fa fa-pinterest"></i>
+              <a href="https://www.instagram.com/fairmondouk/" target="_blank">
+                <i class="fa fa-instagram"></i>
               </a>
             </li>
           </ul>

@@ -60,15 +60,24 @@ footer {
   padding: 0 10%;
 }
 
-.alert-header {
-  color: $rose;
+.alert-header a {
+  color: $white;
   font-weight: bold;
 }
 
-.alert-section {
-  background-color: $yellow;
+#market-banner {
+  background-image: url(../images/fm_bazaar_thin.jpg);
+  background-size: cover;
+  padding: 150px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  height: 400px;
 }
 
-.no-link-color {
-  color: inherit;
+#market-banner h1 {
+  font-size: 5em;
+  font-family: $font-secondary;
 }
+
+
+
