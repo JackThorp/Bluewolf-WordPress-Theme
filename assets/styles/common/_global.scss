@@ -60,23 +60,22 @@ footer {
   padding: 0 10%;
 }
 
-.alert-header a {
+#market-banner h1 a{
   color: $white;
   font-weight: bold;
+  font-size: 1.5em;
+  font-family: $font-secondary;
 }
 
 #market-banner {
-  background-image: url(../images/fm_bazaar_thin.jpg);
+  background-image: url(../images/fm_bazaar.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
-  padding: 150px;
+  padding-top: 100px;
   margin-top: 2em;
   margin-bottom: 2em;
-  height: 400px;
-}
-
-#market-banner h1 {
-  font-size: 5em;
-  font-family: $font-secondary;
+  height: 300px;
 }
 
 

@@ -6,19 +6,11 @@
   </div>
 </div>
 <div id="market-banner" class="row">
-  <!--<img id="fm_bazaar" src="<?= get_template_directory_uri(); ?>/dist/images/fm_bazaar_thin.jpg">-->
-  <div class="col-xs-12">
-    <h1 class="alert-header"><a href="https://fairmondo-uk.sharetribe.com"> Click Here for Fairmondo UK Marketplace</a></h1>
+  <div>
+    <h1><a href="https://fairmondo-uk.sharetribe.com"> Click Here For Fairmondo UK Marketplace</a></h1>
     <!--<h2> Start trading ethically and join the community now at <a href="https://fairmondo-uk.sharetribe.com">fairmondo-uk.sharetribe.com</a></h2>-->
   </div>
 </div>
-<!--
-<div class="alert-section row">
-  <div class="col-sm-10 col-sm-offset-1">
-    <h1 class="alert-header"><a class="no-link-color" href="https://fairmondo-uk.sharetribe.com">Alpha Marketplace Operational!</a></h1>
-  </div>
-</div>
--->
 <div class="row">
   <div class="col-sm-10 col-sm-offset-1">
     <h1> What is Fairmondo UK? </h1>
